@@ -1,5 +1,6 @@
 File_Encryptor
 ===
+A basic implementation of file encryption using CIPHER class in JAVA.
 
 Working:
 ---
