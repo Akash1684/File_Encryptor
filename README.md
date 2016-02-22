@@ -1,6 +1,6 @@
 File_Encryptor
 ===
-A basic implementation of file encryption using CIPHER class in JAVA.
+A basic implementation of file encryption using CIPHER class in JAVA. *AES algorithm* is used to encrypt the data of the file.
 
 Working:
 ---
